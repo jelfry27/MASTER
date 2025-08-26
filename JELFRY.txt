@@ -1,22 +1,30 @@
 # Es_Mi_Guia
 
 GIT
-https://www.youtube.com/watch?v=9ZJ-K-zk_Go  MODIFICAR Y DESHACER COMMIT  11144 # < RAMAS (BRANCHES)
+https://www.youtube.com/watch?v=9ZJ-K-zk_Go   213 MERGE Conflicts >^ (Practicar ramas)
                                                 
 SQL
 https://www.youtube.com/watch?v=DFg1V-rO6Pg ^
 
 BASH SCRIPT 
-https://www.youtube.com/watch?v=H4ayPYcZEfI ARGUMENTOS
+https://www.youtube.com/watch?v=H4ayPYcZEfI 151
 
 VISUAL STUDIO CODE 
-https://www.youtube.com/watch?v=TbzrOz8HbFM  159
+https://www.youtube.com/watch?v=TbzrOz8HbFM  ^ (praticar atajas de teclados, propios emmet)
 
 POO PYTHON
-https://www.youtube.com/watch?v=HtKqSJX7VoM HERENCIA
+https://www.youtube.com/watch?v=HtKqSJX7VoM 107
 
 PYTHON FROM ZERO
-https://www.youtube.com/watch?v=nKPbfIU442g 106
+https://www.youtube.com/watch?v=nKPbfIU442g 258 (PRACTICAR METHODS 21/9/2025)
+
+
 
 
 #APRENDER SOBRE GITLENS
+#APRENDER TRADING
+#APRENDER 
+#APRENDER SOBRE GITHUBCOPILOT
+#APRENDER JAVASCRIPT (PENSAR LUEGO DEL 21/9/2025)
+#APRENDER JAVA (PENSAR LUEGO DEL 21/9/2025)
+#APRENDER c (PENSAR LUEGO DEL 21/9/2025)
