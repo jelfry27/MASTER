@@ -1,30 +1,49 @@
 # Es_Mi_Guia
 
 GIT
-https://www.youtube.com/watch?v=9ZJ-K-zk_Go   213 MERGE Conflicts >^ (Practicar ramas)
+https://www.youtube.com/watch?v=9ZJ-K-zk_Go ^ GIT ^ (Practicar ramas) (Aprender Sobre Las Licencias )
                                                 
 SQL
 https://www.youtube.com/watch?v=DFg1V-rO6Pg ^
 
 BASH SCRIPT 
-https://www.youtube.com/watch?v=H4ayPYcZEfI 151
+https://www.youtube.com/watch?v=H4ayPYcZEfI ^
 
 VISUAL STUDIO CODE 
-https://www.youtube.com/watch?v=TbzrOz8HbFM  ^ (praticar atajas de teclados, propios emmet)
+https://www.youtube.com/watch?v=TbzrOz8HbFM ^ 
+(praticar atajas de teclados, propios emmet)
 
 POO PYTHON
-https://www.youtube.com/watch?v=HtKqSJX7VoM 107
+https://www.youtube.com/watch?v=HtKqSJX7VoM ^       (Practicar principios SOLID Y AI)
 
 PYTHON FROM ZERO
-https://www.youtube.com/watch?v=nKPbfIU442g 258 (PRACTICAR METHODS 21/9/2025)
+https://www.youtube.com/watch?v=nKPbfIU442g 547  (PRACTICAR METHODS)
 
 
+#SEPTEMBER/9/25/27/03
 
+JAVASCRIPT FROM ZERO
+https://www.youtube.com/watch?v=z95mZVUcJ-E  5746 (Todo Javascript para Diciembre?)
+
+DOCKER
+https://www.youtube.com/watch?v=4Dko5W96WHg 17
+
+PENETRATION TESTING | METASPLOIT (PUEDE QUE LO CAMBIE POR OTRO SIMILAR)
+https://www.youtube.com/watch?v=xsZZ_11yYAM 3
+
+
+# DECEMBER O JANUARY I HOPE SO, MAYBE 70%
+
+HTML Y CSS
+https://www.youtube.com/watch?v=ELSm-G201Ls 10
 
 #APRENDER SOBRE GITLENS
 #APRENDER TRADING
-#APRENDER 
 #APRENDER SOBRE GITHUBCOPILOT
-#APRENDER JAVASCRIPT (PENSAR LUEGO DEL 21/9/2025)
+#APRENDER HOSTING
+#CREAR UN WEBSITE
+#APRENDER WIRESHARK
 #APRENDER JAVA (PENSAR LUEGO DEL 21/9/2025)
 #APRENDER c (PENSAR LUEGO DEL 21/9/2025)
+
+#PENSAR EN UN PROYECTO PY ((GRANDE)LUEGO DEL 21/9/2025)
